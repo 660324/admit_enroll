@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run .admit_enroll.py
+web: sh setup.sh && streamlit run .streamlit/admit_enroll.py
