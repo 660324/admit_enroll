@@ -1,1 +1,1 @@
-streamlit==1.8.1
+Streamlit>= 1.9.2
